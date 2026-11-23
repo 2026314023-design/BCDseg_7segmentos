@@ -4,7 +4,7 @@ project:
   title:        "Mi_primer_circuito"      # Project title
   author:       "Angel_Ramblas"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "UConvertidor binario a 7 segmentos"      # One line description of what your project does
+  description:  "UConvertidor_binario_a_7_segmentos"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
