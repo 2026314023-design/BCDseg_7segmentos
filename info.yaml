@@ -2,9 +2,9 @@
 project:
   wokwi_id:    481512105160946689
   title:       "BCD_seg_7segmentos"
-  author:      "Ángel Ramblas"
+  author:      "ÁngelRamblas"
   discord:     ""
-  description: "Convertidor binario a 7 segmentos"
+  description: "Convertidorbinarioa7segmentos"
   language:    "Wokwi"
   clock_hz:    0
 
